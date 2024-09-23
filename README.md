@@ -4,4 +4,4 @@
 
 [Link](http://tonyswan.in)
 
-[[linked.md]]
+[linked.md](linked.md)
