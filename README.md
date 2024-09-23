@@ -6,4 +6,4 @@
 
 [linked.md](linked.md)
 
-[ZTS1](http://tonyswan.github.io/zts_1.md)
+[ZTS1](zts_1.md)
