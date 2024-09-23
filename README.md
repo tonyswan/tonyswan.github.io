@@ -3,3 +3,5 @@
 ### Тестируем заголовок 
 
 [Link](http://tonyswan.in)
+
+[[linked.md]]
